@@ -1,0 +1,5 @@
+## Interface: 50400
+## Title: Dark Souls Event Overlays
+## Notes: Overlays for death, defeating bosses, resurrecting
+
+DarkSoulsEventOverlays.lua
